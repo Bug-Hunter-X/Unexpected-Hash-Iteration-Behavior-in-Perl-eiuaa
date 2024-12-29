@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Perl related to iterating over a hash while modifying it.  The `bug.pl` file shows the problem, and `bugSolution.pl` offers a corrected approach.
